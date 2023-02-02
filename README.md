@@ -30,7 +30,7 @@ Movie app is an application built with flutter to show movie list fetched from t
      <td>Index Page SS 2</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/47735067/200386163-49412818-4195-4591-bbbb-d6db21b2152a.PNG" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/47735067/216348948-1a7e2dac-586a-4515-9e3b-1fb07aca4d25.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/47735067/200386187-c5f54719-5cfd-4608-998c-0c74a4a96a8c.PNG" width=270 height=480></td>
   </tr>
 
