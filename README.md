@@ -11,6 +11,16 @@ Movie app is an application built with flutter to show movie list fetched from t
 5. Re-usable Clean Code
 6. State Management with Provider
 
+# Packages Used
+
+1. <a href="https://pub.dev/packages/cached_network_image" target="_blank">cached_network_mage</a>
+
+2. <a href="https://pub.dev/packages/icons_plus" target="_blank">icons_plus</a>
+
+3. <a href="https://pub.dev/packages/dio" target="_blank">dio</a>
+
+4. <a href="https://pub.dev/packages/provider" target="_blank">provider</a>
+
 
 # Getting Started with App
 
