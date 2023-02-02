@@ -26,7 +26,7 @@ Movie app is an application built with flutter to show movie list fetched from t
 
 1. Download Android Studio and install flutter and dart. (See docs at https://docs.flutter.dev/get-started/install?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDWF4xMRxNFWMZHXVGGlOfmehkvG8tTkGludRiBzrqfyeF_a70bU7oxoCnw4QAvD_BwE&gclsrc=aw.ds)
 2. Download Postman for testing API (See docs at https://learning.postman.com/docs/getting-started/installation-and-updates/)
-3. Create a Account at https://www.weatherapi.com/login.aspx and Sign to generate an API Key
+3. Create a Account at https://www.themoviedb.org/ and Sign to generate an API Key
 4. Clone https://github.com/Ashwin1002/Movie_App in Android Studio
 5. Install Emulator or use a mobile phone for testing
 6. Run Flutter pub get for running the app
